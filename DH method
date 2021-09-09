@@ -15,8 +15,8 @@ D-H法的简化方式很明确，就是将y轴位移和旋转的2个自由度干
 建立步骤：
 
 列表
-https://pic4.zhimg.com/80/v2-cafd5c5a2e974a02456d2d7f6d0fdeaf_720w.jpg
-https://pic4.zhimg.com/80/v2-cafd5c5a2e974a02456d2d7f6d0fdeaf_720w.jpg
+![image](https://pic4.zhimg.com/80/v2-cafd5c5a2e974a02456d2d7f6d0fdeaf_720w.jpg)
+![image](https://pic4.zhimg.com/80/v2-cafd5c5a2e974a02456d2d7f6d0fdeaf_720w.jpg)
 2. 建模
 
 1）确定初始位置并给连杆和关节标号。一般机械臂初始位置被认为是整体伸直朝上，横向关节朝向为x轴。下图右边是连杆结构图。
